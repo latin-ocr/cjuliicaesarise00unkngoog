@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cjuliicaesarise00unkngoog_0323.png"; bbox 0 0 1484 2967; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 58 123 669 227">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 58 123 669 227">
+     <span class='ocr_line' id='line_1_1' title="bbox 58 123 669 227; baseline 0.003 -39"><span class='ocrx_word' id='word_1_1' title='bbox 58 189 60 197; x_wconf 21' lang='lat'>1</span> <span class='ocrx_word' id='word_1_2' title='bbox 166 129 490 218; x_wconf 64' lang='lat' dir='ltr'>romonum,</span> <span class='ocrx_word' id='word_1_3' title='bbox 515 123 570 194; x_wconf 71' lang='lat' dir='ltr'>ete.</span> <span class='ocrx_word' id='word_1_4' title='bbox 666 221 669 227; x_wconf 20' lang='grc'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 354 313 384 364">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 354 313 384 364">
+     <span class='ocr_line' id='line_1_2' title="bbox 354 313 384 364; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 354 313 384 364; x_wconf 79' lang='lat' dir='ltr'>Z.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 86 437 548 687">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 86 437 548 687">
+     <span class='ocr_line' id='line_1_3' title="bbox 90 437 438 516; baseline 0.003 -2"><span class='ocrx_word' id='word_1_6' title='bbox 90 467 174 514; x_wconf 66' lang='lat' dir='ltr'><strong>Zama.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 189 437 309 516; x_wconf 58' lang='lat' dir='ltr'>firbsAfr.</span> <span class='ocrx_word' id='word_1_8' title='bbox 323 449 438 515; x_wconf 46' lang='lat' dir='ltr'>&amp;amora</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 89 539 548 610; baseline 0 -17"><span class='ocrx_word' id='word_1_9' title='bbox 89 546 167 594; x_wconf 80' lang='lat' dir='ltr'>zetta.</span> <span class='ocrx_word' id='word_1_10' title='bbox 182 559 241 608; x_wconf 76' lang='lat' dir='ltr'><strong>opp.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 256 540 353 610; x_wconf 59' lang='lat' dir='ltr'>Afrique</span> <span class='ocrx_word' id='word_1_12' title='bbox 369 542 453 592; x_wconf 71' lang='lat' dir='ltr'><strong>marit.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 468 539 548 595; x_wconf 66' lang='lat' dir='ltr'><em>Zerbi.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 86 617 455 687; baseline -0.008 -15"><span class='ocrx_word' id='word_1_14' title='bbox 86 617 153 672; x_wconf 64' lang='lat' dir='ltr'>Ziela</span> <span class='ocrx_word' id='word_1_15' title='bbox 160 617 213 687; x_wconf 74' lang='lat' dir='ltr'>five</span> <span class='ocrx_word' id='word_1_16' title='bbox 222 621 288 676; x_wconf 72' lang='lat' dir='ltr'><strong>zela.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 302 621 359 674; x_wconf 74' lang='lat' dir='ltr'>urbs</span> <span class='ocrx_word' id='word_1_18' title='bbox 371 619 455 673; x_wconf 78' lang='lat' dir='ltr'><strong>Ponti.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 746 2967">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 746 2967">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 746 2967; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 746 2967; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
